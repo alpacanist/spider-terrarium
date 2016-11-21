@@ -1,6 +1,5 @@
-# spider-terrarium
-一组网络爬虫生活的玻璃箱。
-A collection of web crawlers using python urllib.
+# 网络爬虫馆
+一组网络爬虫生活的玻璃箱。使用 python urllib。
 
 ## xq.py
 爬取晋江论坛主题帖。
@@ -13,6 +12,9 @@ A collection of web crawlers using python urllib.
 1. 下载，在终端中打开目录
 2. 运行 `python xq.py`
 3. 按命令行提示操作
+
+# spider-terrarium
+A collection of web crawlers using python urllib.
 
 ## xq.py
 Crawls bbs.jjwxc.net forum threads.
